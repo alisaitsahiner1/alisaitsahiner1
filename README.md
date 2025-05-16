@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I'm Ali Sait
 
-<!--
-**alisaitsahiner1/alisaitsahiner1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 I'm a game developer passionate about creating engaging and interactive experiences using **Unity** and **Unreal Engine**.  
+💻 I specialize in **C#**, **C++**, and love building gameplay mechanics, UI systems, and game logic.  
+🎓 I'm a recent Computer Engineering graduate, currently looking for exciting opportunities in game development.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🕹️ Sample Projects
+
+Here are a few games I've developed:
+
+- 🟥 **RedBall** – A side-scrolling platformer where timing and physics are key.
+- 🍓 **FruitMatch** – A colorful and fun matching game built in Unity.
+- 🐻 **EscapeFredy** – A labyrinth-themed puzzle escape experience.
+- 🧱 **TileVania** – A tilemap-based 2D action platformer built with Unity.
+
+> 🔎 Want to see more?  
+> **Check out the rest of my projects on my [GitHub repositories](https://github.com/alisaitsahiner1?tab=repositories)!**
+
+---
+
+## 🛠️ Skills & Tools
+
+- **Game Engines**: Unity, Unreal Engine  
+- **Languages**: C#, C++, Blueprint  
+- **Tools**: Visual Studio, Android Studio
+
+---
+
+## 📫 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/ali-sait-şahiner-96926b30a)
+- Email: alisaitsahiner10@gmail.com
